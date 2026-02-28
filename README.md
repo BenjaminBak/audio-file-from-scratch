@@ -1,5 +1,5 @@
 ![Thumbnail](thumbnail.png)
-# audio-file-from-scratch-
+# audio-file-from-scratch
 Tiny program to write .wav files.
 
 It also includes a sine tone generator, a white noise generator and an evelope shaper.
