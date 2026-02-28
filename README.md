@@ -1,2 +1,4 @@
+![Thumbnail](thumbnail.png)
 # audio-file-from-scratch-
-tiny program to write .wav files
+Tiny program to write .wav files.
+
